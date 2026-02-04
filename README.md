@@ -14,7 +14,7 @@
 - **프로젝트 형태**: 팀 프로젝트 (PM / Frontend / Backend / App)
 - **기간**: 2025.11 ~ 2026.01
 - **인원**: 6명
-- **나의 기여도**: 기획 · 서버운영 · UI/UX · 프론트엔드 · 앱 일부 구현
+- **기여도**: 기획 · 서버운영 · UI/UX · 프론트엔드 · 앱 일부 구현
 
 🔗 **Web Repository**  
 👉 https://github.com/SubinCheon-95/BNK-Busanbank-Project_Web
