@@ -3,7 +3,7 @@
 ### PM · Frontend · App 협업 경험을 가진 개발자  
 **BNK 부산은행 금융 DT 프로젝트 – TK Bank(딸깍은행)**
 
----
+--
 
 ## 🏦 Main Project
 ### BNK 부산은행 금융 DT 프로젝트 – TK Bank
@@ -129,8 +129,6 @@
 - 디자인과 개발 사이의 간극을 줄이는 작업
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubinCheon-95&layout=compact)
 
 ## 📫 Contact
 - GitHub: https://github.com/SubinCheon-95
