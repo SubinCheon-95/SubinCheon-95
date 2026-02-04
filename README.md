@@ -11,10 +11,10 @@
 > 금융 접근성을 낮추고, **게임화(Gamification)와 UI/UX 중심 설계**로  
 > 젊은 사용자 경험을 개선한 디지털 뱅킹 서비스
 
-- **프로젝트 형태**: 팀 프로젝트 (PM / Frontend / App)
+- **프로젝트 형태**: 팀 프로젝트 (PM / Frontend / Backend / App)
 - **기간**: 2025.11 ~ 2026.01
 - **인원**: 6명
-- **기여도**: 기획 · 서버운영 · UI/UX · 프론트엔드 · 앱 일부 구현
+- **나의 기여도**: 기획 · 서버운영 · UI/UX · 프론트엔드 · 앱 일부 구현
 
 🔗 **Web Repository**  
 👉 https://github.com/SubinCheon-95/BNK-Busanbank-Project_Web
