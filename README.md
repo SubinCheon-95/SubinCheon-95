@@ -8,8 +8,7 @@
 ## 🏦 Main Project
 ### BNK 부산은행 금융 DT 프로젝트 – TK Bank
 
-> 금융 접근성을 낮추고,  
-> **게임화(Gamification)와 UI/UX 중심 설계**로  
+> 금융 접근성을 낮추고, **게임화(Gamification)와 UI/UX 중심 설계**로  
 > 젊은 사용자 경험을 개선한 디지털 뱅킹 서비스
 
 - **프로젝트 형태**: 팀 프로젝트 (PM / Frontend / App)
