@@ -130,7 +130,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?SubinCheon-95=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubinCheon-95&layout=compact)
 
 ## 📫 Contact
 - GitHub: https://github.com/SubinCheon-95
